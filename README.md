@@ -1,4 +1,4 @@
-This repo demonstrates a strange issue with auto-imports for drizzle-orm
+This repo demonstrates a strange issue with auto-imports for drizzle-orm related to https://github.com/drizzle-team/drizzle-orm/issues/1771.
 
 To reproduce:
 
